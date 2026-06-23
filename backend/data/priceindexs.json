@@ -1,0 +1,102 @@
+[
+  {
+    "_id": "mock_kxgdp9uwb",
+    "name": "High-Yield Wheat Seed (HD-2967)",
+    "category": "seeds",
+    "currentPrice": 42,
+    "unit": "kg",
+    "lastMonthPrice": 40,
+    "changePercent": 5,
+    "trend": "up",
+    "history": [
+      35,
+      36,
+      38,
+      37,
+      40,
+      42
+    ],
+    "createdAt": "2026-05-23T02:38:57.546Z",
+    "updatedAt": "2026-05-23T02:38:57.546Z"
+  },
+  {
+    "_id": "mock_7kl5k1lj5",
+    "name": "Hybrid Tomato Seeds (F1 Shaktiman)",
+    "category": "seeds",
+    "currentPrice": 380,
+    "unit": "10g",
+    "lastMonthPrice": 410,
+    "changePercent": -7.3,
+    "trend": "down",
+    "history": [
+      450,
+      430,
+      420,
+      420,
+      410,
+      380
+    ],
+    "createdAt": "2026-05-23T02:38:57.546Z",
+    "updatedAt": "2026-05-23T02:38:57.546Z"
+  },
+  {
+    "_id": "mock_8zd4zulo4",
+    "name": "Neem Oil Organic Pesticide",
+    "category": "pesticides",
+    "currentPrice": 280,
+    "unit": "Litre",
+    "lastMonthPrice": 275,
+    "changePercent": 1.8,
+    "trend": "up",
+    "history": [
+      265,
+      270,
+      270,
+      275,
+      275,
+      280
+    ],
+    "createdAt": "2026-05-23T02:38:57.546Z",
+    "updatedAt": "2026-05-23T02:38:57.546Z"
+  },
+  {
+    "_id": "mock_xitwmxsui",
+    "name": "Granular Organic Compost",
+    "category": "fertilizers",
+    "currentPrice": 15,
+    "unit": "kg",
+    "lastMonthPrice": 16,
+    "changePercent": -6.2,
+    "trend": "down",
+    "history": [
+      18,
+      18,
+      17,
+      16,
+      16,
+      15
+    ],
+    "createdAt": "2026-05-23T02:38:57.546Z",
+    "updatedAt": "2026-05-23T02:38:57.546Z"
+  },
+  {
+    "_id": "mock_f99c7se56",
+    "name": "Glyphosate Weedicide 41% SL",
+    "category": "pesticides",
+    "currentPrice": 450,
+    "unit": "Litre",
+    "lastMonthPrice": 420,
+    "changePercent": 7.1,
+    "trend": "up",
+    "history": [
+      390,
+      400,
+      410,
+      430,
+      420,
+      450
+    ],
+    "createdAt": "2026-05-23T02:38:57.546Z",
+    "updatedAt": "2026-05-23T02:38:57.546Z"
+  }
+]

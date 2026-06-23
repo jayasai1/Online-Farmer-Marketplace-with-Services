@@ -1,0 +1,62 @@
+[
+  {
+    "_id": "mock_tractor_01",
+    "name": "John Deere 5050D",
+    "hp": 50,
+    "rentPerHour": 450,
+    "rentPerDay": 3500,
+    "ownerId": "mock_b7dvn4h70",
+    "location": "Ludhiana, PB",
+    "rating": 4.8,
+    "description": "Highly efficient 4WD heavy-duty tractor. Perfect for deep ploughing and transport.",
+    "image": "/images/tractor_johndeere.png",
+    "specifications": {
+      "Cylinders": "3",
+      "Engine HP": "50 HP",
+      "Brakes": "Oil Immersed Brakes",
+      "Lift Capacity": "1600 Kg"
+    },
+    "createdAt": "2026-05-23T02:38:57.536Z",
+    "updatedAt": "2026-05-23T02:38:57.536Z"
+  },
+  {
+    "_id": "mock_tractor_02",
+    "name": "Mahindra Arjun Novo 605",
+    "hp": 57,
+    "rentPerHour": 500,
+    "rentPerDay": 4000,
+    "ownerId": "mock_lnsgeuuqd",
+    "location": "Karnal, HR",
+    "rating": 4.9,
+    "description": "Advanced tractor with high lift capacity (2200 KG). Perfect for modern rotavators.",
+    "image": "/images/tractor_mahindra.png",
+    "specifications": {
+      "Cylinders": "4",
+      "Engine HP": "57 HP",
+      "Clutch": "Dual Diaphragm",
+      "Transmission": "Synchromesh"
+    },
+    "createdAt": "2026-05-23T02:38:57.536Z",
+    "updatedAt": "2026-05-23T02:38:57.536Z"
+  },
+  {
+    "_id": "mock_tractor_03",
+    "name": "Kubota MU4501",
+    "hp": 45,
+    "rentPerHour": 400,
+    "rentPerDay": 3200,
+    "ownerId": "mock_bj3s9vlh0",
+    "location": "Satara, MH",
+    "rating": 4.7,
+    "description": "Super smooth Japanese engine with incredible fuel economy. Easy weeding operations.",
+    "image": "/images/tractor_kubota.png",
+    "specifications": {
+      "Cylinders": "4",
+      "Engine HP": "45 HP",
+      "Fuel Tank": "60 Litres",
+      "Gear Box": "8 Forward + 4 Reverse"
+    },
+    "createdAt": "2026-05-23T02:38:57.536Z",
+    "updatedAt": "2026-05-23T02:38:57.536Z"
+  }
+]

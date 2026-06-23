@@ -1,0 +1,57 @@
+[
+  {
+    "_id": "mock_b7dvn4h70",
+    "username": "Rajender Singh",
+    "email": "rajender@agromarket.com",
+    "phone": "+91 94140 12345",
+    "role": "farmer",
+    "location": "Ludhiana, Punjab",
+    "password": "password123",
+    "createdAt": "2026-05-23T02:38:57.533Z",
+    "updatedAt": "2026-05-23T02:38:57.533Z"
+  },
+  {
+    "_id": "mock_lnsgeuuqd",
+    "username": "Harpreet Mann",
+    "email": "harpreet@agromarket.com",
+    "phone": "+91 94140 54321",
+    "role": "farmer",
+    "location": "Ambala, Haryana",
+    "password": "password123",
+    "createdAt": "2026-05-23T02:38:57.533Z",
+    "updatedAt": "2026-05-23T02:38:57.533Z"
+  },
+  {
+    "_id": "mock_bj3s9vlh0",
+    "username": "Ramesh Patel",
+    "email": "ramesh@agromarket.com",
+    "phone": "+91 98250 99887",
+    "role": "farmer",
+    "location": "Anand, Gujarat",
+    "password": "password123",
+    "createdAt": "2026-05-23T02:38:57.533Z",
+    "updatedAt": "2026-05-23T02:38:57.533Z"
+  },
+  {
+    "_id": "mock_6n4fif82w",
+    "username": "Dev Patel",
+    "email": "dev@agromarket.com",
+    "phone": "+91 98980 11223",
+    "role": "buyer",
+    "location": "Mumbai, Maharashtra",
+    "password": "password123",
+    "createdAt": "2026-05-23T02:38:57.533Z",
+    "updatedAt": "2026-05-23T02:38:57.533Z"
+  },
+  {
+    "_id": "mock_y3zqwgs82",
+    "username": "Suresh Yadav",
+    "email": "suresh@agromarket.com",
+    "phone": "+91 88120 77665",
+    "role": "farmer",
+    "location": "Nasik, Maharashtra",
+    "password": "password123",
+    "createdAt": "2026-05-23T02:38:57.533Z",
+    "updatedAt": "2026-05-23T02:38:57.533Z"
+  }
+]

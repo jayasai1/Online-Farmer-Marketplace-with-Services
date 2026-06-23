@@ -1,0 +1,44 @@
+[
+  {
+    "_id": "mock_labor_01",
+    "name": "Ramesh Kumar & Group",
+    "crewSize": 5,
+    "skills": ["Harvesting", "Crop Cutting", "Loading"],
+    "dailyRate": 450,
+    "rating": 4.9,
+    "reviews": 24,
+    "location": "Uttar Pradesh (Willing to travel)",
+    "experience": "8+ years in grain harvesting, fast work rate, brings own sickle tools.",
+    "avatar": "/images/labor_group.png",
+    "createdAt": "2026-05-23T02:38:57.536Z",
+    "updatedAt": "2026-05-23T02:38:57.536Z"
+  },
+  {
+    "_id": "mock_labor_02",
+    "name": "Sunil Yadav & Group",
+    "crewSize": 8,
+    "skills": ["Paddy Sowing", "Ploughing", "Weeding"],
+    "dailyRate": 500,
+    "rating": 4.8,
+    "reviews": 18,
+    "location": "Bihar (Available in Punjab/Haryana)",
+    "experience": "Expert team for water-logged paddy transplantation. Speed and alignment guaranteed.",
+    "avatar": "/images/labor_group.png",
+    "createdAt": "2026-05-23T02:38:57.536Z",
+    "updatedAt": "2026-05-23T02:38:57.536Z"
+  },
+  {
+    "_id": "mock_labor_03",
+    "name": "Amit Patel",
+    "crewSize": 1,
+    "skills": ["Tractor Driving", "Equipment Operation", "Drip Setup"],
+    "dailyRate": 600,
+    "rating": 5,
+    "reviews": 32,
+    "location": "Anand, Gujarat",
+    "experience": "Certified commercial tractor driver. Proficient in operating rotavators and precision levelers.",
+    "avatar": "/images/labor_group.png",
+    "createdAt": "2026-05-23T02:38:57.536Z",
+    "updatedAt": "2026-05-23T02:38:57.536Z"
+  }
+]

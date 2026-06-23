@@ -1,0 +1,19 @@
+# Node
+node_modules/
+
+# Build outputs
+dist/
+
+# Environment and secret files
+.env
+.env.*
+.env.local
+/.env.local
+*.key
+*.pem
+*.secret
+credentials.json
+secret-*.json
+
+# OS files
+.DS_Store

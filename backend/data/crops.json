@@ -1,0 +1,72 @@
+[
+  {
+    "_id": "mock_crop_01",
+    "name": "Premium Wheat Grain",
+    "category": "grains",
+    "price": 32,
+    "unit": "kg",
+    "quantity": 1200,
+    "sellerId": "mock_b7dvn4h70",
+    "isOrganic": false,
+    "description": "High-yield Sharbati wheat, freshly harvested from Ludhiana. Sun-dried and graded for maximum milling quality.",
+    "image": "/images/crop_wheat.png",
+    "createdAt": "2026-05-23T02:38:57.536Z",
+    "updatedAt": "2026-05-23T02:38:57.536Z"
+  },
+  {
+    "_id": "mock_crop_02",
+    "name": "Organic Basmati Rice",
+    "category": "grains",
+    "price": 85,
+    "unit": "kg",
+    "quantity": 500,
+    "sellerId": "mock_lnsgeuuqd",
+    "isOrganic": true,
+    "description": "Traditional aromatic long-grain Basmati rice. Cultivated organically using neem cake and compost in Ambala.",
+    "image": "/images/crop_rice.png",
+    "createdAt": "2026-05-23T02:38:57.536Z",
+    "updatedAt": "2026-05-23T02:38:57.536Z"
+  },
+  {
+    "_id": "mock_crop_03",
+    "name": "Fresh Red Potatoes",
+    "category": "vegetables",
+    "price": 18,
+    "unit": "kg",
+    "quantity": 2500,
+    "sellerId": "mock_bj3s9vlh0",
+    "isOrganic": false,
+    "description": "Firm, freshly dug red potatoes. Ideal for table consumption and processing in Anand, Gujarat.",
+    "image": "/images/crop_potato.png",
+    "createdAt": "2026-05-23T02:38:57.536Z",
+    "updatedAt": "2026-05-23T02:38:57.536Z"
+  },
+  {
+    "_id": "mock_crop_04",
+    "name": "Organic Yellow Maize (Corn)",
+    "category": "grains",
+    "price": 24,
+    "unit": "kg",
+    "quantity": 800,
+    "sellerId": "mock_lnsgeuuqd",
+    "isOrganic": true,
+    "description": "Excellent quality yellow corn, GMO-free. Highly suitable for poultry feed or organic milling.",
+    "image": "/images/crop_market.png",
+    "createdAt": "2026-05-23T02:38:57.536Z",
+    "updatedAt": "2026-05-23T02:38:57.536Z"
+  },
+  {
+    "_id": "mock_crop_05",
+    "name": "Fresh Red Onions",
+    "category": "vegetables",
+    "price": 22,
+    "unit": "kg",
+    "quantity": 1500,
+    "sellerId": "mock_y3zqwgs82",
+    "isOrganic": false,
+    "description": "High-grade Nasik onions, well-cured with dried skins. Long shelf life and sharp flavor.",
+    "image": "/images/crop_onion.png",
+    "createdAt": "2026-05-23T02:38:57.536Z",
+    "updatedAt": "2026-05-23T02:38:57.536Z"
+  }
+]
